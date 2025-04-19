@@ -27,7 +27,7 @@
     border: 1.5px solid transparent;
 }
 .border:hover {
-    border: 1.5px solid white  ;
+    border: 1x solid 1.5px white  ;
 }
 /* box2 */
 
@@ -208,3 +208,4 @@ span {
     height: 60px;
     margin-top: 20px;
 }
+
