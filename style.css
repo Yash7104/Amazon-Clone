@@ -27,8 +27,9 @@
     border: 1.5px solid transparent;
 }
 .border:hover {
-    border: 1x solid 1.5px white  ;
+        border: 2px solid white;
 }
+    
 /* box2 */
 
 .add-first {
