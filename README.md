@@ -1,13 +1,20 @@
-# Amazon-Clone
+# Amazon Clone
 
-This is my first time when I made something using **HTML** and **CSS**.
+This is my my best project ever in life created using **HTML** and **CSS**. It’s a simple Amazon-like website to showcase my learning.
 
 ![Screenshot](amazon_logo.png)
 
-You can try my Amazon-clone.  
-It took me 4 days to build this clone.
+Feel free to try out my Amazon Clone live here:  
+[Live Demo](https://yash7104.github.io/Amazon-Clone/)
 
-> ⚠️ So please don’t copy anything from my clone.
+It took me 14 days to build this, and I’m proud of the result.
 
-### I know it's valid to clone others' repositories (fork), but please don’t fork this one.  
-Otherwise, I’ll have to make this repo private.
+> ⚠️ **Please respect my work** and **do not copy or fork** this repository.  
+I know it’s valid to fork other repositories, but I’d really appreciate it if you **don’t fork** this one.  
+If necessary, I may make this repo private to protect my work.
+
+---
+
+
+### **License:**
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
