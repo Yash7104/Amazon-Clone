@@ -1,19 +1,22 @@
 # Amazon Clone
 
-This is my my best project ever in life created using **HTML** and **CSS**. It’s a simple Amazon-like website to showcase my learning.
+This is my best project ever created using **HTML** and **CSS**. It’s a simple Amazon-like website to showcase my learning.
 
+<<<<<<< HEAD
 ![Screenshot](ama_logo.png)
+=======
+![Screenshot](ama.png)  
+>>>>>>> 510d350b3de5a773424f82072df23d4cf246b350
 
 Feel free to try out my Amazon Clone live here:  
 [Live Demo](https://yash7104.github.io/Amazon-Clone/)
 
-It took me 14 days to build this, and I’m proud of the result.
+It took me 4 days to build this, and I’m proud of the result.
 
 > ⚠️ **Please respect my work** and **do not copy or fork** this repository.  
 I know it’s valid to fork other repositories, but I’d really appreciate it if you **don’t fork** this one.  
 If necessary, I may make this repo private to protect my work.
 
 ---
-
 
 
