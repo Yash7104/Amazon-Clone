@@ -2,7 +2,13 @@
 
 This is my best project ever created using **HTML** and **CSS**. It’s a simple Amazon-like website to showcase my learning.
 
+<<<<<<< HEAD
 ![Screenshot](ama.png)  
+=======
+
+![Screenshot](ama.png)  
+
+>>>>>>> 9c79a086186d7659f8a79beca60cace5eb45eb05
 
 Feel free to try out my Amazon Clone live here:  
 [Live Demo](https://yash7104.github.io/Amazon-Clone/)
